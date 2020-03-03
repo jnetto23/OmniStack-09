@@ -1,9 +1,10 @@
 # AirCnC
 
 Result of the week OmniStack 9 - Rocketseat
-
-<img src="https://github.com/jnetto23/OmniStack-09/blob/master/screenshots/aircnc-solicitation.png" width="50%" height="auto"/>
-<img src="https://github.com/jnetto23/OmniStack-09/blob/master/screenshots/aircnc-approval.png" width="50%" height="auto"/>
+<div style="display:flex">
+<img src="https://github.com/jnetto23/OmniStack-09/blob/master/screenshots/aircnc-solicitation.png" width="45%" height="auto"/>
+<img src="https://github.com/jnetto23/OmniStack-09/blob/master/screenshots/aircnc-approval.png" width="45%" height="auto"/>
+</div>
 
 ## Objective/Challenge
 
